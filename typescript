@@ -1,0 +1,12 @@
+Script started on Thu Dec 15 16:23:18 2011
+[?1034hbash-3.2$ script/
+bash: script/: is a directory
+bash-3.2$ ls
+Gemfile		Rakefile	config.ru	lib		script		typescript
+Gemfile.lock	app		db		log		test		vendor
+README		config		doc		public		tmp
+bash-3.2$ 
+bash-3.2$ exit
+exit
+
+Script done on Thu Dec 15 16:23:41 2011
